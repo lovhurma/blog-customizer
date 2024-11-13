@@ -11,6 +11,7 @@ export const ArticleParamsForm = () => {
 
 	//Состояние для отслеживания открытия/закрытия панели
 	const [isOpen, setOpen] = useState<boolean>(false)
+	//Сделала коммент - проверка гит
 
 	return (
 		<>
